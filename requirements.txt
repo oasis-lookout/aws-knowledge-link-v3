@@ -1,0 +1,6 @@
+streamlit>=1.36
+psycopg2-binary>=2.9.9
+boto3>=1.34
+python-dotenv>=1.0
+requests>=2.31
+fastembed>=0.3
